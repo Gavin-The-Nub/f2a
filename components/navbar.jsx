@@ -16,7 +16,7 @@ export default function Navbar() {
           <div className="flex items-center gap-2">
             <Link href="/" className="flex items-center gap-2">
               <Image
-                src="/images/f2a-logo.png"
+                src="/f2a-logo.png"
                 alt="F2A CARS Logo"
                 width={40}
                 height={40}

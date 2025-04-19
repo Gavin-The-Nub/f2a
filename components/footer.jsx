@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/images/f2a-logo.png"
+                src="/f2a-logo.png"
                 alt="F2A CARS Logo"
                 width={50}
                 height={50}

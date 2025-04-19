@@ -38,7 +38,7 @@ export default function AboutPage() {
             <div className="max-w-4xl mx-auto">
               <div className="flex justify-center mb-8">
                 <Image
-                  src="/images/f2a-logo.png"
+                  src="/f2a-logo.png"
                   alt="F2A CARS Logo"
                   width={100}
                   height={100}
