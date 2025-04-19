@@ -68,7 +68,7 @@ export default function CarCarousel() {
   };
 
   return (
-    <div className="relative h-screen mt-[-70] w-full overflow-hidden">
+    <div className="relative h-screen mt-[-70px] w-full overflow-hidden">
       {/* Carousel slides */}
       {featuredCars.map((car, index) => (
         <div
